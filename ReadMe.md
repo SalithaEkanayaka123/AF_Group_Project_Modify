@@ -1,7 +1,7 @@
 ﻿#
 # AF Project Git Repos
 
-Front end : <https://github.com/AnawaratneMANA/AF_GRP_PROJ_FR.git>
+Front end : <https://github.com/SalithaEkanayaka123/AF_Group_Project_Modify.git>
 
 Back end : <https://github.com/AnawaratneMANA/AF_GRP_PROJ_BK.git>
 
