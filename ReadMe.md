@@ -3,7 +3,7 @@
 
 Front end : <https://github.com/SalithaEkanayaka123/AF_Group_Project_Modify.git>
 
-Back end : <https://github.com/AnawaratneMANA/AF_GRP_PROJ_BK.git>
+Back end : <https://github.com/SalithaEkanayaka123/AF_Group_Project_Backend_Modify.git>
 
 
 # Overview
